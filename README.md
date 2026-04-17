@@ -13,6 +13,9 @@ By answering these questions, potential outcomes include:
 ## Resources
 - [Online Gaming Anxiety Dataset](https://www.kaggle.com/datasets/divyansh22/online-gaming-anxiety-data/discussion/294172)
 - [pdf of survey for data](https://osf.io/vnbxk/files/vyr5f)
+- [GAD survey questions](https://patient.info/doctor/mental-health/gad-7)
+- [SWL information](https://labs.psychology.illinois.edu/~ediener/SWLS.html)
+- [SPIN survey questions](https://psychology-tools.com/test/spin)
 
 
 ### Other potential datasets to include in the analysis:
