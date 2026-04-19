@@ -1,23 +1,31 @@
-| Table | Issue Description | Resolvable? | Done | Notes |
-| ----- | ----------------- | ----------- | ---- | ----- | 
-| Gaming Study Data | Index and S. No. columns are similar | yes | ... | ... |
-| Gaming Study Data | Column names unclear and inconsistent | yes | ... | ... |
-| Gaming Study Data | Timestamp in odd format and datatype | yes | ... | ... |
-| Gaming Study Data | 'earnings', 'why play', 'League', 'Playstyle' columns are open-ended | ... | ... | ... |
-| Gaming Study Data | SPIN questions not available in survey pdf | ... | ... | ... |
-| Gaming Study Data | Residence and Birthplace repeated with _ISO3. Check for duplicate data and formatting | yes | ... | Use ISO3 columns for consistent format |
-| Gaming Study Data | Remove original residence & birthplace columns | yes | ... | ... |
-| Gaming Study Data | Platform content - remove excess from 'Console' | yes | ... | ... |
-| Gaming Study Data | GADE_Difficulty_in_life transform to int to match other data  | yes | ... | ... |
-| Gaming Study Data | Hours to int from float | yes | ... | ... |
-| Gaming Study Data | SPIN float to int | yes | ... | ... |
-| Gaming Study Data | Highest league column can be removed; all NaN | yes | yes | ... |
-| Gaming Study Data | Streams column name is misleading; rename | yes | yes | ... |
-| Gaming Study Data | SPIN_Total to int | yes | ... | ... |
-| Gaming Study Data | ... | ... | ... | ... |
-| Gaming Study Data | ... | ... | ... | ... |
-| Gaming Study Data | ... | ... | ... | ... |
+| Issue Description | Resolvable? | Done | Notes |
+| ----------------- | ----------- | ---- | ----- | 
+| Index and S. No. columns are similar | yes | ... | ... |
+| Column names unclear and inconsistent | yes | yes | ... |
+| Timestamp in odd format and datatype | yes | ... | ... |
+| 'earnings', 'why play', 'League', 'Playstyle' columns are open-ended | ... | ... | ... |
+| SPIN questions not available in survey pdf | yes  | yes | survey references study by Connor, et al that contains the questions used |
+| Residence and Birthplace repeated with _ISO3. Check for duplicate data and formatting | yes | ... | Use ISO3 columns for consistent format |
+| Remove original residence & birthplace columns | yes | ... | ... |
+| Platform content - remove excess from 'Console' | yes | ... | ... |
+| GADE_Difficulty_in_life transform to int to match other data  | yes | ... | Need to specify what str to what int |
+| GADE_Difficulty_in_life has 626 NaN <5% of data | yes | yes | Removed rows |
+| Hours to int from float | yes | ... | 30 null rows |
+| Hours contains 26 NaN rows | yes | yes | Removed rows |
+| SPIN columns float to int | yes | ... | ... |
+| SPIN_Total has 650 NaN <5% of data | yes | yes | Removed rows |
+| Highest league column can be removed; all NaN | yes | yes | ... |
+| Streams column name is misleading; rename | yes | yes | ... |
+| Need to check for duplicate rows | yes | ... | ... |
+| Columns have NaN: Hours, Non_game_hours, SPIN1-17, Narcissism, SPIN_Total | yes | ... | ... |
+| ... | ... | ... | ... |
+| ... | ... | ... | ... |
+| ... | ... | ... | ... |
+| ... | ... | ... | ... |
 
+-------------
+### NaN notes
+The SPIN columns have 650 rows with 1+ NaN value in those columns. This makes up <5% of the data, so I will remove these rows which should allow me to convert them from int to float.
 -------------
 
 ### Renaming
