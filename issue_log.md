@@ -9,11 +9,11 @@
 | Remove original residence & birthplace columns | yes | ... | ... |
 | Platform content - remove excess from 'Console' | yes | ... | ... |
 | GADE_Difficulty_in_life transform to int to match other data  | yes | ... | Need to specify what str to what int |
-| GADE_Difficulty_in_life has 626 NaN <5% of data | yes | yes | Removed rows |
-| Hours to int from float | yes | ... | 30 null rows |
-| Hours contains 26 NaN rows | yes | yes | Removed rows |
-| SPIN columns float to int | yes | ... | ... |
-| SPIN_Total has 650 NaN <5% of data | yes | yes | Removed rows |
+| GADE_Difficulty_in_life has 626 NaN <5% of data | yes | yes | Removed 626 rows |
+| Hours to int from float | yes | yes | Had to remove NaN first |
+| Hours contains NaN rows | yes | yes | Removed 26 rows |
+| SPIN columns float to int | yes | yes | Had to remove NaN first |
+| SPIN_Total has 650 NaN <5% of data | yes | yes | Removed 650 rows |
 | Highest league column can be removed; all NaN | yes | yes | ... |
 | Streams column name is misleading; rename | yes | yes | ... |
 | Need to check for duplicate rows | yes | ... | ... |
@@ -22,6 +22,10 @@
 | ... | ... | ... | ... |
 | ... | ... | ... | ... |
 | ... | ... | ... | ... |
+
+Original rows: 13464
+Rows removed: 1302
+Percent of original data: 9.7%
 
 -------------
 ### NaN notes
