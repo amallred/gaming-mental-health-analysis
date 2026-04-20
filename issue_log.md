@@ -7,7 +7,7 @@
 | SPIN questions not available in survey pdf | yes  | yes | survey references study by Connor, et al that contains the questions used |
 | Residence and Birthplace repeated with _ISO3. Check for duplicate data and formatting | yes | yes | Removed original residence & birthplace columns and kept ISO3 columns for consistent format |
 | Platform content - remove excess from 'Console' | yes | ... | ... |
-| GADE_Difficulty_in_life transform to int to match other data  | yes | ... | Need to specify what str to what int |
+| GADE_Difficulty_in_life transform to int to match other data  | yes | yes | Need to specify what str to what int |
 | GADE_Difficulty_in_life has 626 NaN <5% of data | yes | yes | Removed 626 rows |
 | Hours to int from float | yes | yes | Had to remove NaN first |
 | Hours contains NaN rows | yes | yes | Removed 26 rows |
