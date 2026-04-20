@@ -1,12 +1,11 @@
 | Issue Description | Resolvable? | Done | Notes |
 | ----------------- | ----------- | ---- | ----- | 
-| Index and S. No. columns are similar | yes | ... | ... |
+| Index and S. No. columns are similar | --- | ... | They diverge several times; they are NOT the same |
 | Column names unclear and inconsistent | yes | yes | ... |
-| Timestamp in odd format and datatype | yes | ... | ... |
+| Timestamp in odd format and datatype | yes | yes | ... |
 | 'earnings', 'why play', 'League', 'Playstyle' columns are open-ended | ... | ... | ... |
 | SPIN questions not available in survey pdf | yes  | yes | survey references study by Connor, et al that contains the questions used |
-| Residence and Birthplace repeated with _ISO3. Check for duplicate data and formatting | yes | ... | Use ISO3 columns for consistent format |
-| Remove original residence & birthplace columns | yes | ... | ... |
+| Residence and Birthplace repeated with _ISO3. Check for duplicate data and formatting | yes | yes | Removed original residence & birthplace columns and kept ISO3 columns for consistent format |
 | Platform content - remove excess from 'Console' | yes | ... | ... |
 | GADE_Difficulty_in_life transform to int to match other data  | yes | ... | Need to specify what str to what int |
 | GADE_Difficulty_in_life has 626 NaN <5% of data | yes | yes | Removed 626 rows |
@@ -23,6 +22,7 @@
 | ... | ... | ... | ... |
 | ... | ... | ... | ... |
 
+### Tracking removed data:
 Original rows: 13464
 Rows removed: 1302
 Percent of original data: 9.7%
