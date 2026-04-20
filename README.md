@@ -10,6 +10,13 @@ By answering these questions, potential outcomes include:
 - Data could be presented to gaming corporations to encourage better mental health reminders (like in [Satisfactory](https://www.satisfactorygame.com/))
 - To improve customer's mental health (and potentially increase the longevity of revenue) games could be marketed to match the purpose most associated with better mental health indicators.
 
+## EDA Initial questions
+- What were the total scores for GAD, SWL, and SPIN? (histogram)
+- How did reported hours played impact the GAD, SWL, and SPIN totals? (chart type?)
+- What game(s) are played the most hours per week? (Bar chart)
+- Do any factors seem to lead to high GAD, SWL, and SPIN totals? (Grouped bars; Console, Residence, Gender vs totals)
+- What most impacts hours played? (Scatter plots; age, gender, residence, console vs hours played)
+
 ## Resources
 - [Online Gaming Anxiety Dataset](https://www.kaggle.com/datasets/divyansh22/online-gaming-anxiety-data/discussion/294172)
 - [pdf of survey for data](https://osf.io/vnbxk/files/vyr5f)

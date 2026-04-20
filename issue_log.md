@@ -28,8 +28,10 @@ Rows removed: 1312
 Percent of original data: 9.7% 
 
 -------------
+
 ### NaN notes
 The SPIN columns have 650 rows with 1+ NaN value in those columns. This makes up <5% of the data, so I will remove these rows which should allow me to convert them from int to float.
+
 -------------
 
 ### Renaming
