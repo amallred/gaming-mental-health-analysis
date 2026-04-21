@@ -24,7 +24,7 @@
 
 ### Tracking removed data:
 Original rows: 13464
-Rows removed: 1312
+Rows removed: 1319
 Percent of original data: 9.7% 
 
 -------------
