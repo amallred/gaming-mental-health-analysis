@@ -11,11 +11,11 @@ By answering these questions, potential outcomes include:
 - To improve customer's mental health (and potentially increase the longevity of revenue) games could be marketed to match the purpose most associated with better mental health indicators.
 
 ## EDA Initial questions
-- What were the total scores for GAD, SWL, and SPIN? (histogram)
-- How did reported hours played impact the GAD, SWL, and SPIN totals? (chart type?)
-- What game(s) are played the most hours per week? (Bar chart)
-- Do any factors seem to lead to high GAD, SWL, and SPIN totals? (Grouped bars; Console, Residence, Gender vs totals)
-- What most impacts hours played? (Scatter plots; age, gender, residence, console vs hours played)
+- [x] What were the total scores for GAD, SWL, and SPIN? (histogram)
+- [x] How did reported hours played impact the GAD, SWL, and SPIN totals? (chart type?)
+- [x] What game(s) are played the most hours per week? (Bar chart)
+- [x] Do any factors seem to lead to high GAD, SWL, and SPIN totals? (Grouped bars; Console, Residence, Gender vs totals)
+- [ ] What most impacts hours played? (~~Scatter plots;~~ age, gender, residence, console vs hours played) stacked area line graph??
 
 ## Resources
 - [Online Gaming Anxiety Dataset](https://www.kaggle.com/datasets/divyansh22/online-gaming-anxiety-data/discussion/294172)
@@ -26,6 +26,7 @@ By answering these questions, potential outcomes include:
 
 
 ### Other potential datasets to include in the analysis:
+- **Look into non-gaming related GAD, SWL, SPIN tests**
 - [Digital Habits & Smartphone Addiction Dataset](https://www.kaggle.com/datasets/guriya79/smart-phone)
   - Well maintained and clean data but no demographic information beyond age and gender
 - [The Impact of Online Gaming on Various Social Constructs](https://osf.io/c9utj/overview)
