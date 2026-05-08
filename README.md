@@ -1,21 +1,47 @@
-# gaming-mental-health-analysis
+<center>
 
-## Overview
-This analysis aims to adress these questions:
-- How do demographics (age/gender/country) impact hours played/anxiety levels?
-- What games / platforms lead to higher anxiety levels?
-- How does the reason the players play the games compare with their anxiety?
+![gaming-mental-health-analysis](/images/Gaming_&_Mental_Health_Analysis.png)
+
+<strong>An investigation into what factors most strongly impact gamers' anxiety levels.</strong>
+
+<br>
+
+![GitHub top language](https://img.shields.io/github/languages/top/amallred/gaming-mental-health-analysis?logoColor=f37821&labelColor=0f0a14&color=%23f37821)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/amallred/gaming-mental-health-analysis?labelColor=%230f0a14)</center>
+
+
+
+## Installation
+
+1. Clone the repo
+      ```bash
+      git clone https://github.com/amallred/gaming-mental-health-analysis
+      ```
+2. Create and activate virtual environment
+      ```bash
+      # Windows
+      python -m venv venv
+      env/Scripts/activate
+
+      # Max / Linux
+      python3 -m venv venv
+      source env/bin/activate
+      ```
+3. Install required packages
+      ```bash
+      pip install -r requirements.txt
+      ```
+
+## Usage
+
+In this investigation, I explored what factors appear to most correlate with higher anxiety levels in this survey's participants (Ex: demographics like age/gender/country, hours spent gaming, gaming platform, etc.).
 
 By answering these questions, potential outcomes include:
 - Data could be presented to gaming corporations to encourage better mental health reminders (like in [Satisfactory](https://www.satisfactorygame.com/))
 - To improve customer's mental health (and potentially increase the longevity of revenue) games could be marketed to match the purpose most associated with better mental health indicators.
 
-## EDA Initial questions
-- [x] What were the total scores for GAD, SWL, and SPIN? (histogram)
-- [x] How did reported hours played impact the GAD, SWL, and SPIN totals? (chart type?)
-- [x] What game(s) are played the most hours per week? (Bar chart)
-- [x] Do any factors seem to lead to high GAD, SWL, and SPIN totals? (Grouped bars; Console, Residence, Gender vs totals)
-- [ ] What most impacts hours played? (~~Scatter plots;~~ age, gender, residence, console vs hours played) stacked area line graph??
+## Author
+Amanda Allred | [LinkedIn](https://www.linkedin.com/in/amallred/) | [Email](amallredmom@gmail.com)
 
 ## Resources
 - [Online Gaming Anxiety Dataset](https://www.kaggle.com/datasets/divyansh22/online-gaming-anxiety-data/discussion/294172)
@@ -23,7 +49,7 @@ By answering these questions, potential outcomes include:
 - [GAD survey questions](https://patient.info/doctor/mental-health/gad-7)
 - [SWL information](https://labs.psychology.illinois.edu/~ediener/SWLS.html)
 - [SPIN survey questions](https://psychology-tools.com/test/spin)
-
+- Other graphic-specific references are included in comments throughout the code.
 
 ### Other potential datasets to include in the analysis:
 - **Look into non-gaming related GAD, SWL, SPIN tests**
@@ -38,3 +64,4 @@ By answering these questions, potential outcomes include:
 - I used ChatGPT to explain why I needed to change the encoding of my file to `read_csv` and used its suggestions to inform further investigation online before deciding that encoding to latin-1 was the best option for this data.
   - What I learned: Sometimes special characters work in one encoding (latin-1) and not in another (UTF-8 for example) can throw the error I was encountering (UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa0 in position 599: invalid start byte). In this case, the '0xA0' character represents a non-breaking space character. Also, the encoding labels ISO-8859-1 == Latin-1. 
 - I used ChatGPT to help with the logic of pulling data from only the top 5 represented countries.
+- Other AI references are noted in the comments throughout the code. These were intentionally kept to a minimal number and most concepts were repeated in multiple graphs.
