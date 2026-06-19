@@ -34,6 +34,11 @@
 
 ## Usage
 
+Run the notebooks in the following order:
+1. data_cleaning.ipynb
+2. eda.ipynb
+3. charts.ipynb
+
 In this investigation, I explored what factors appear to most correlate with higher anxiety levels in this survey's participants (Ex: demographics like age/gender/country, hours spent gaming, gaming platform, etc.).
 
 By answering these questions, potential outcomes include:
