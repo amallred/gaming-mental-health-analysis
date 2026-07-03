@@ -51,7 +51,7 @@ Amanda Allred | [LinkedIn](https://www.linkedin.com/in/amallred/) | [Email](amal
 ## Resources
 - [Online Gaming Anxiety Dataset](https://www.kaggle.com/datasets/divyansh22/online-gaming-anxiety-data/discussion/294172)
 - [pdf of survey for data](https://osf.io/vnbxk/files/vyr5f)
-- [GAD survey questions](https://patient.info/doctor/mental-health/gad-7)
+- [GAD survey questions and scoring information](https://www.mdcalc.com/calc/1727/gad7-general-anxiety-disorder7)
 - [SWL information](https://labs.psychology.illinois.edu/~ediener/SWLS.html)
 - [SPIN survey questions](https://psychology-tools.com/test/spin)
 - Other graphic-specific references are included in comments throughout the code.
