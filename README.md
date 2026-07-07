@@ -32,7 +32,7 @@
       pip install -r requirements.txt
       ```
 
-## Usage
+## Usage *** UPDATE THIS*** 
 
 Run the notebooks in the following order:
 1. data_cleaning.ipynb
