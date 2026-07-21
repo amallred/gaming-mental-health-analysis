@@ -1,8 +1,8 @@
 <center>
 
-![gaming-mental-health-analysis](/images/Gaming_&_Mental_Health_Analysis.png)
+![gaming-mental-health-analysis](/preliminary_analysis/images/Gaming_&_Mental_Health_Analysis.png)
 
-<strong>An investigation into what factors most strongly impact gamers' anxiety levels.</strong>
+<strong>An investigation into the impact of gaming on anxiety.</strong>
 
 <br>
 
@@ -32,12 +32,12 @@
       pip install -r requirements.txt
       ```
 
-## Usage *** UPDATE THIS*** 
+## Usage *** UPDATE THIS SECTION*** 
 
 Run the notebooks in the following order:
-1. data_cleaning.ipynb
-2. eda.ipynb
-3. charts.ipynb
+1. gaming_mental_health_cleaning.ipynb
+2. nhis_mental_health_cleaning.ipynb
+3. gad_eda.ipynb
 
 In this investigation, I explored what factors appear to most correlate with higher anxiety levels in this survey's participants (Ex: demographics like age/gender/country, hours spent gaming, gaming platform, etc.).
 
@@ -66,7 +66,7 @@ Amanda Allred | [LinkedIn](https://www.linkedin.com/in/amallred/) | [Email](amal
 - [2018 A weak scientific basis for gaming disorder: Let us err on the side of caution](https://osf.io/m3wyb/overview)
 
 #### AI Usage Notes
-- I used ChatGPT to explain why I needed to change the encoding of my file to `read_csv` and used its suggestions to inform further investigation online before deciding that encoding to latin-1 was the best option for this data.
+- I used ChatGPT to explain why I needed to change the encoding of my gaming data file to `read_csv` and used its suggestions to inform further investigation online before deciding that encoding to latin-1 was the best option for this data.
   - What I learned: Sometimes special characters work in one encoding (latin-1) and not in another (UTF-8 for example) can throw the error I was encountering (UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa0 in position 599: invalid start byte). In this case, the '0xA0' character represents a non-breaking space character. Also, the encoding labels ISO-8859-1 == Latin-1. 
 - I used ChatGPT to help with the logic of pulling data from only the top 5 represented countries.
-- Other AI references are noted in the comments throughout the code. These were intentionally kept to a minimal number and most concepts were repeated in multiple graphs.
+- Other AI references are noted in the comments throughout the code. These were intentionally kept to a minimum and most concepts were repeated in multiple cells.
