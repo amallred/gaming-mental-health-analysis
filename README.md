@@ -21,11 +21,11 @@
       ```bash
       # Windows
       python -m venv venv
-      env/Scripts/activate
+      venv/Scripts/activate
 
       # Max / Linux
       python3 -m venv venv
-      source env/bin/activate
+      source venv/bin/activate
       ```
 3. Install required packages
       ```bash
