@@ -14,3 +14,6 @@ def correct_GAD_scores(df):
         return 
     else:
         return df.apply(subtract_1)
+
+def df_to_table(input_dataframe, output_table_name, conn):
+    input_dataframe.to_sql(output_table_name, conn, index=False, if_exists='replace')

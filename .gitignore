@@ -1,2 +1,8 @@
 venv/
 node_modules/
+
+# ignore cached files from custom imports
+# chatGPT helped with this part when I noticed
+# there was a new, unexpected folder
+__pycache__/
+*.py[cod]
