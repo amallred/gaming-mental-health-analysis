@@ -6,3 +6,5 @@ node_modules/
 # there was a new, unexpected folder
 __pycache__/
 *.py[cod]
+
+mental_health.db
