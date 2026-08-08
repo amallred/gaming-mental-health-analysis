@@ -80,14 +80,14 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 82,2015,0,0,0,0,0,0,0,0,1,1,19,12,1,GBR,Other,High school diploma (or equivalent),PC,5.0,having fun,Multiplayer - online - with strangers,Male
 83,2015,2,2,2,2,0,1,1,10,3,2,34,9,1,USA,Other,Master (or equivalent),Console,25.0,having fun,Singleplayer,Female
 84,2015,1,2,2,0,2,1,1,9,2,1,19,12,1,USA,Other,High school diploma (or equivalent),Console,10.0,having fun,Singleplayer,Male
-85,2015,0,0,0,0,0,0,0,0,1,1,50,9,1,JPN,Other,Master (or equivalent),Phone / Tablet,5.0,having fun,Singleplayer,Male
+85,2015,0,0,0,0,0,0,0,0,1,1,50,9,1,JPN,Other,Master (or equivalent),Mobile,5.0,having fun,Singleplayer,Male
 86,2015,3,3,3,3,2,3,1,18,4,2,20,12,1,USA,League of Legends,High school diploma (or equivalent),PC,10.0,improving,Multiplayer - online - with strangers,Female
 87,2015,2,1,1,1,1,1,0,7,2,2,21,12,1,CAN,Other,High school diploma (or equivalent),PC,20.0,having fun,Multiplayer - online - with real life friends,Female
 88,2015,0,0,0,1,0,1,1,3,1,1,19,12,1,USA,Diablo 3,High school diploma (or equivalent),PC,45.0,having fun,Multiplayer - online - with real life friends,Male
 89,2015,2,1,1,1,0,2,1,8,2,1,28,9,1,CAN,Other,Master (or equivalent),PC,11.0,having fun,Singleplayer,Male
 90,2015,1,0,1,1,1,1,0,5,2,1,18,12,1,GBR,Other,High school diploma (or equivalent),PC,12.0,having fun,Multiplayer - online - with real life friends,Male
 91,2015,1,0,1,2,1,2,1,8,2,1,24,8,1,CAN,Other,Bachelor (or equivalent),PC,25.0,improving,Multiplayer - online - with strangers,Male
-92,2015,3,3,3,3,3,1,2,18,4,1,19,12,1,USA,Other,High school diploma (or equivalent),Phone / Tablet,9.0,having fun,Multiplayer - online - with strangers,Male
+92,2015,3,3,3,3,3,1,2,18,4,1,19,12,1,USA,Other,High school diploma (or equivalent),Mobile,9.0,having fun,Multiplayer - online - with strangers,Male
 93,2015,1,0,1,1,1,0,0,4,1,1,22,8,1,USA,Starcraft 2,Bachelor (or equivalent),PC,6.0,relaxing,Multiplayer - online - with real life friends,Male
 94,2015,1,2,1,0,1,1,2,8,2,1,19,99,1,USA,League of Legends,Unknown,PC,20.0,having fun,Multiplayer - online - with real life friends,Male
 95,2015,3,3,3,3,0,0,0,12,3,2,18,12,1,USA,Other,High school diploma (or equivalent),Console,6.0,relaxing,Singleplayer,Female
@@ -133,7 +133,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 138,2015,1,0,1,2,0,1,1,6,2,1,23,9,1,BEL,Starcraft 2,Master (or equivalent),PC,13.0,improving,Multiplayer - online - with real life friends,Male
 139,2015,0,0,0,0,1,0,0,1,1,1,19,99,1,CHE,Counter Strike,Unknown,PC,20.0,having fun,Multiplayer - online - with real life friends,Male
 140,2015,0,0,0,0,0,0,1,1,1,1,18,12,1,GBR,League of Legends,High school diploma (or equivalent),PC,16.0,having fun,Multiplayer - online - with real life friends,Male
-141,2015,3,3,3,3,1,3,2,18,4,1,36,12,1,CAN,Other,High school diploma (or equivalent),Phone / Tablet,10.0,improving,Singleplayer - online,Male
+141,2015,3,3,3,3,1,3,2,18,4,1,36,12,1,CAN,Other,High school diploma (or equivalent),Mobile,10.0,improving,Singleplayer - online,Male
 142,2015,0,0,1,0,0,1,0,2,1,1,18,12,1,GBR,League of Legends,High school diploma (or equivalent),PC,12.0,improving,Multiplayer - online - with real life friends,Male
 143,2015,1,2,2,1,2,2,0,10,3,1,21,12,1,HRV,League of Legends,High school diploma (or equivalent),PC,21.0,having fun,Multiplayer - online - with real life friends,Male
 144,2015,0,0,1,1,0,0,1,3,1,1,23,12,1,DEU,League of Legends,High school diploma (or equivalent),PC,5.0,having fun,Multiplayer - online - with real life friends,Male
@@ -259,7 +259,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 271,2015,1,0,1,1,0,2,0,5,2,2,18,99,1,USA,Skyrim,Unknown,Console,5.0,having fun,Singleplayer,Female
 272,2015,1,0,0,0,0,0,1,2,1,1,24,8,1,USA,Starcraft 2,Bachelor (or equivalent),PC,15.0,improving,Multiplayer - online - with strangers,Male
 273,2015,0,0,0,0,0,0,0,0,1,1,24,8,1,AUT,League of Legends,Bachelor (or equivalent),PC,21.0,having fun,Multiplayer - online - with strangers,Male
-274,2015,2,0,1,1,2,2,0,8,2,1,20,12,1,AUS,Hearthstone,High school diploma (or equivalent),Phone / Tablet,30.0,improving,Multiplayer - online - with strangers,Male
+274,2015,2,0,1,1,2,2,0,8,2,1,20,12,1,AUS,Hearthstone,High school diploma (or equivalent),Mobile,30.0,improving,Multiplayer - online - with strangers,Male
 275,2015,1,0,1,0,0,1,0,3,1,1,23,12,1,BEL,Starcraft 2,High school diploma (or equivalent),PC,3.0,winning,Multiplayer - online - with strangers,Male
 276,2015,2,2,1,0,0,2,1,8,2,1,19,8,1,GBR,Starcraft 2,Bachelor (or equivalent),PC,6.0,relaxing,Multiplayer - online - with strangers,Male
 277,2015,0,0,0,2,0,1,0,3,1,1,20,12,1,USA,League of Legends,High school diploma (or equivalent),PC,20.0,having fun,Multiplayer - online - with strangers,Male
@@ -768,7 +768,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 819,2015,2,2,2,2,0,1,2,11,3,2,21,12,1,CAN,League of Legends,High school diploma (or equivalent),PC,3.0,improving,Multiplayer - online - with strangers,Female
 820,2015,1,0,2,1,1,2,0,7,2,1,18,12,1,USA,League of Legends,High school diploma (or equivalent),PC,18.0,improving,Multiplayer - online - with online acquaintances or teammates,Male
 821,2015,0,0,0,0,0,0,0,0,1,2,20,12,1,DEU,League of Legends,High school diploma (or equivalent),PC,21.0,having fun,Multiplayer - online - with online acquaintances or teammates,Female
-822,2015,2,3,3,1,1,1,1,12,3,1,20,12,1,USA,Other,High school diploma (or equivalent),Phone / Tablet,14.0,relaxing,Singleplayer,Male
+822,2015,2,3,3,1,1,1,1,12,3,1,20,12,1,USA,Other,High school diploma (or equivalent),Mobile,14.0,relaxing,Singleplayer,Male
 823,2015,1,1,1,1,1,1,1,7,2,1,22,12,1,DEU,League of Legends,High school diploma (or equivalent),PC,20.0,improving,Multiplayer - online - with online acquaintances or teammates,Male
 824,2015,0,0,1,0,0,1,0,2,1,1,20,12,1,USA,League of Legends,High school diploma (or equivalent),PC,20.0,improving,Multiplayer - online - with real life friends,Male
 826,2015,0,0,0,0,1,1,0,2,1,1,21,12,1,DEU,Counter Strike,High school diploma (or equivalent),PC,5.0,having fun,Multiplayer - online - with real life friends,Male
@@ -1333,7 +1333,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 1411,2015,1,0,1,0,0,1,0,3,1,1,23,8,1,HUN,League of Legends,Bachelor (or equivalent),PC,20.0,improving,Multiplayer - online - with online acquaintances or teammates,Male
 1412,2015,0,0,1,1,0,2,0,4,1,1,24,12,1,USA,Starcraft 2,High school diploma (or equivalent),Console,25.0,improving,Multiplayer - online - with strangers,Male
 1413,2015,0,1,1,1,0,0,0,3,1,1,20,8,1,DZA,League of Legends,Bachelor (or equivalent),PC,28.0,improving,Multiplayer - online - with real life friends,Male
-1414,2015,1,1,1,1,1,1,2,8,2,1,22,8,1,GBR,League of Legends,Bachelor (or equivalent),Phone / Tablet,18.0,having fun,Multiplayer - online - with strangers,Male
+1414,2015,1,1,1,1,1,1,2,8,2,1,22,8,1,GBR,League of Legends,Bachelor (or equivalent),Mobile,18.0,having fun,Multiplayer - online - with strangers,Male
 1415,2015,0,0,0,0,0,0,0,0,1,1,21,12,1,GBR,World of Warcraft,High school diploma (or equivalent),PC,60.0,winning,Singleplayer,Male
 1416,2015,2,2,2,2,0,2,0,10,3,1,21,12,1,BEL,League of Legends,High school diploma (or equivalent),PC,21.0,winning,Multiplayer - online - with real life friends,Male
 1417,2015,3,1,3,3,3,3,3,19,4,1,21,8,1,ARG,League of Legends,Bachelor (or equivalent),PC,5.0,improving,Multiplayer - online - with strangers,Male
@@ -2386,7 +2386,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 2522,2015,0,1,1,2,0,1,0,5,2,2,18,8,1,ESP,World of Warcraft,Bachelor (or equivalent),PC,25.0,improving,Multiplayer - online - with online acquaintances or teammates,Female
 2523,2015,0,1,1,1,0,0,0,3,1,1,18,12,1,CHE,Other,High school diploma (or equivalent),PC,22.0,having fun,Multiplayer - online - with strangers,Male
 2524,2015,1,0,0,1,0,1,0,3,1,1,19,12,1,USA,League of Legends,High school diploma (or equivalent),PC,20.0,having fun,Multiplayer - online - with real life friends,Male
-2525,2015,1,2,2,1,1,2,0,9,2,1,27,8,1,BEL,Hearthstone,Bachelor (or equivalent),Phone / Tablet,7.0,having fun,Multiplayer - online - with strangers,Male
+2525,2015,1,2,2,1,1,2,0,9,2,1,27,8,1,BEL,Hearthstone,Bachelor (or equivalent),Mobile,7.0,having fun,Multiplayer - online - with strangers,Male
 2526,2015,0,0,0,0,0,1,0,1,1,1,22,12,1,USA,League of Legends,High school diploma (or equivalent),PC,22.0,having fun,Multiplayer - online - with online acquaintances or teammates,Male
 2527,2015,2,1,0,1,0,1,0,5,2,1,23,12,1,USA,League of Legends,High school diploma (or equivalent),PC,10.0,having fun,Multiplayer - online - with real life friends,Male
 2528,2015,0,0,0,1,0,1,0,2,1,1,18,99,1,DEU,Counter Strike,Unknown,PC,30.0,improving,Multiplayer - online - with real life friends,Male
@@ -5142,7 +5142,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 5446,2015,1,1,2,2,1,1,1,9,2,1,21,12,1,USA,Counter Strike,High school diploma (or equivalent),PC,18.0,improving,Multiplayer - online - with online acquaintances or teammates,Male
 5447,2015,1,0,0,0,0,1,1,3,1,2,26,12,1,USA,League of Legends,High school diploma (or equivalent),PC,20.0,relaxing,Multiplayer - online - with strangers,Female
 5448,2015,1,1,1,1,0,2,0,6,2,1,18,99,1,SVN,League of Legends,Unknown,PC,12.0,improving,Multiplayer - online - with real life friends,Male
-5449,2015,0,1,1,1,1,0,0,4,1,1,18,12,1,DEU,League of Legends,High school diploma (or equivalent),Phone / Tablet,20.0,having fun,Multiplayer - online - with real life friends,Male
+5449,2015,0,1,1,1,1,0,0,4,1,1,18,12,1,DEU,League of Legends,High school diploma (or equivalent),Mobile,20.0,having fun,Multiplayer - online - with real life friends,Male
 5450,2015,3,2,2,3,0,0,2,12,3,1,19,12,1,USA,League of Legends,High school diploma (or equivalent),PC,30.0,improving,Multiplayer - online - with strangers,Male
 5451,2015,0,0,0,0,0,1,0,1,1,1,18,12,1,ARG,League of Legends,High school diploma (or equivalent),PC,21.0,relaxing,Multiplayer - online - with real life friends,Male
 5453,2015,1,0,0,0,0,0,1,2,1,1,18,99,1,DEU,League of Legends,Unknown,PC,14.0,having fun,Multiplayer - online - with real life friends,Male
@@ -5392,7 +5392,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 5714,2015,1,2,2,1,0,1,2,9,2,1,19,12,1,CAN,League of Legends,High school diploma (or equivalent),PC,35.0,improving,Multiplayer - online - with strangers,Male
 5715,2015,1,0,0,0,0,0,0,1,1,1,19,12,1,CAN,League of Legends,High school diploma (or equivalent),PC,15.0,improving,Multiplayer - online - with strangers,Male
 5716,2015,1,3,3,3,2,0,1,13,3,1,21,12,1,CAN,League of Legends,High school diploma (or equivalent),PC,10.0,winning,Multiplayer - online - with strangers,Male
-5717,2015,3,3,3,2,3,0,2,16,4,2,23,13,1,PER,Hearthstone,"Ph.D., Psy. D., MD (or equivalent)",Phone / Tablet,18.0,winning,Multiplayer - online - with strangers,Female
+5717,2015,3,3,3,2,3,0,2,16,4,2,23,13,1,PER,Hearthstone,"Ph.D., Psy. D., MD (or equivalent)",Mobile,18.0,winning,Multiplayer - online - with strangers,Female
 5718,2015,0,0,0,0,0,1,0,1,1,1,18,12,1,USA,League of Legends,High school diploma (or equivalent),PC,30.0,winning,Multiplayer - online - with real life friends,Male
 5719,2015,1,1,1,1,0,1,0,5,2,1,25,12,1,USA,League of Legends,High school diploma (or equivalent),PC,20.0,improving,Multiplayer - online - with online acquaintances or teammates,Male
 5720,2015,3,3,2,2,0,1,1,12,3,1,20,12,1,DEU,League of Legends,High school diploma (or equivalent),PC,50.0,improving,ranked soloQ and normal games with RL firends,Male
@@ -5748,7 +5748,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 6097,2015,3,3,3,2,1,1,3,16,4,2,18,12,1,PER,League of Legends,High school diploma (or equivalent),PC,6.0,winning,Multiplayer - online - with strangers,Female
 6098,2015,1,0,0,1,0,1,0,3,1,1,25,12,1,USA,League of Legends,High school diploma (or equivalent),PC,10.0,improving,Multiplayer - online - with strangers,Male
 6099,2015,0,0,0,0,0,0,0,0,1,1,21,8,1,USA,League of Legends,Bachelor (or equivalent),PC,30.0,improving,Multiplayer - online - with online acquaintances or teammates,Male
-6100,2015,3,1,3,2,1,1,2,13,3,1,20,8,1,USA,Other,Bachelor (or equivalent),Phone / Tablet,14.0,relaxing,Singleplayer,Male
+6100,2015,3,1,3,2,1,1,2,13,3,1,20,8,1,USA,Other,Bachelor (or equivalent),Mobile,14.0,relaxing,Singleplayer,Male
 6101,2015,0,0,0,0,1,0,0,1,1,1,21,12,1,CHE,League of Legends,High school diploma (or equivalent),PC,10.0,having fun,Multiplayer - online - with real life friends,Male
 6102,2015,1,1,1,1,0,2,2,8,2,1,25,8,1,USA,League of Legends,Bachelor (or equivalent),PC,20.0,having fun,Multiplayer - online - with strangers,Male
 6104,2015,0,0,0,0,0,0,0,0,1,1,19,12,1,NOR,League of Legends,High school diploma (or equivalent),PC,30.0,having fun,Multiplayer - online - with real life friends,Male
@@ -7057,7 +7057,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 7502,2015,0,0,0,1,0,0,1,2,1,1,29,8,1,CAN,League of Legends,Bachelor (or equivalent),PC,5.0,having fun,Multiplayer - online - with real life friends,Male
 7503,2015,2,3,2,0,0,2,2,11,3,1,21,12,1,POL,League of Legends,High school diploma (or equivalent),PC,20.0,having fun,Singleplayer,Male
 7504,2015,1,2,2,2,1,0,2,10,3,1,19,12,1,USA,League of Legends,High school diploma (or equivalent),PC,14.0,having fun,Multiplayer - online - with online acquaintances or teammates,Male
-7505,2015,1,1,2,1,0,1,1,7,2,2,18,12,1,BGR,League of Legends,High school diploma (or equivalent),Phone / Tablet,5.0,having fun,Multiplayer - online - with real life friends,Female
+7505,2015,1,1,2,1,0,1,1,7,2,2,18,12,1,BGR,League of Legends,High school diploma (or equivalent),Mobile,5.0,having fun,Multiplayer - online - with real life friends,Female
 7506,2015,1,0,0,1,0,2,0,4,1,1,29,8,1,USA,League of Legends,Bachelor (or equivalent),PC,4.0,winning,Multiplayer - online - with strangers,Male
 7507,2015,2,2,3,3,0,1,2,13,3,2,25,8,1,DEU,League of Legends,Bachelor (or equivalent),PC,12.0,relaxing,Multiplayer - online - with online acquaintances or teammates,Female
 7508,2015,1,0,0,0,1,1,0,3,1,1,20,12,1,MEX,League of Legends,High school diploma (or equivalent),PC,30.0,having fun,Multiplayer - online - with real life friends,Male
@@ -8118,7 +8118,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 8639,2015,0,0,0,0,0,0,0,0,1,1,18,12,1,USA,League of Legends,High school diploma (or equivalent),PC,15.0,improving,Multiplayer - online - with strangers,Male
 8640,2015,1,1,0,3,1,1,0,7,2,1,18,12,1,DNK,League of Legends,High school diploma (or equivalent),PC,6.0,having fun,Multiplayer - online - with real life friends,Male
 8641,2015,0,0,2,1,0,1,0,4,1,1,19,12,1,DEU,League of Legends,High school diploma (or equivalent),PC,25.0,relaxing,Multiplayer - online - with real life friends,Male
-8642,2015,2,0,0,0,1,0,2,5,2,2,20,12,1,USA,Other,High school diploma (or equivalent),Phone / Tablet,35.0,relaxing,Singleplayer,Female
+8642,2015,2,0,0,0,1,0,2,5,2,2,20,12,1,USA,Other,High school diploma (or equivalent),Mobile,35.0,relaxing,Singleplayer,Female
 8643,2015,1,0,1,2,1,2,2,9,2,1,28,12,1,CAN,League of Legends,High school diploma (or equivalent),PC,8.0,improving,Multiplayer - online - with real life friends,Male
 8644,2015,2,2,2,1,1,1,0,9,2,1,18,99,1,USA,League of Legends,Unknown,PC,40.0,improving,Multiplayer - online - with online acquaintances or teammates,Male
 8645,2015,0,0,0,0,0,0,0,0,1,1,20,12,1,USA,League of Legends,High school diploma (or equivalent),PC,5.0,having fun,Multiplayer - online - with real life friends,Male
@@ -8559,7 +8559,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 9110,2015,0,0,0,0,0,0,0,0,1,1,18,12,1,USA,Counter Strike,High school diploma (or equivalent),PC,20.0,having fun,Multiplayer - online - with real life friends,Male
 9111,2015,0,1,0,0,1,1,0,3,1,1,21,9,1,USA,League of Legends,Master (or equivalent),PC,16.0,improving,Multiplayer - online - with strangers,Male
 9112,2015,0,0,1,1,0,1,1,4,1,1,19,12,1,USA,League of Legends,High school diploma (or equivalent),PC,24.0,improving,Multiplayer - online - with real life friends,Male
-9113,2015,0,0,0,0,3,1,1,5,2,1,18,12,1,USA,Hearthstone,High school diploma (or equivalent),Phone / Tablet,8.0,improving,Multiplayer - online - with strangers,Male
+9113,2015,0,0,0,0,3,1,1,5,2,1,18,12,1,USA,Hearthstone,High school diploma (or equivalent),Mobile,8.0,improving,Multiplayer - online - with strangers,Male
 9115,2015,0,2,2,2,0,3,0,9,2,1,20,12,1,HRV,League of Legends,High school diploma (or equivalent),PC,35.0,improving,Multiplayer - online - with online acquaintances or teammates,Male
 9116,2015,1,1,2,2,0,1,2,9,2,1,21,12,1,USA,League of Legends,High school diploma (or equivalent),PC,12.0,having fun,Multiplayer - online - with online acquaintances or teammates,Male
 9117,2015,0,0,0,0,0,0,0,0,1,1,21,12,1,USA,League of Legends,High school diploma (or equivalent),PC,30.0,winning,Multiplayer - online - with online acquaintances or teammates,Male
@@ -8601,7 +8601,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 9153,2015,3,3,3,3,0,3,2,17,4,2,23,12,1,GRC,League of Legends,High school diploma (or equivalent),PC,5.0,having fun,Multiplayer - online - with strangers,Female
 9154,2015,1,1,1,2,0,1,0,6,2,1,23,12,1,PRT,League of Legends,High school diploma (or equivalent),PC,40.0,A mix of everything,Multiplayer - online - with online acquaintances or teammates,Male
 9155,2015,1,0,0,1,0,1,0,3,1,1,20,12,1,USA,League of Legends,High school diploma (or equivalent),PC,14.0,improving,Multiplayer - online - with strangers,Male
-9156,2015,0,0,0,0,0,0,0,0,1,1,28,12,1,USA,Other,High school diploma (or equivalent),Phone / Tablet,21.0,improving,Singleplayer,Male
+9156,2015,0,0,0,0,0,0,0,0,1,1,28,12,1,USA,Other,High school diploma (or equivalent),Mobile,21.0,improving,Singleplayer,Male
 9157,2015,1,1,1,1,0,2,1,7,2,1,22,12,1,BRA,League of Legends,High school diploma (or equivalent),PC,12.0,winning,Multiplayer - online - with real life friends,Male
 9158,2015,2,2,2,1,1,0,2,10,3,1,19,12,1,CAN,League of Legends,High school diploma (or equivalent),PC,15.0,having fun,Multiplayer - online - with real life friends,Male
 9160,2015,1,0,1,0,0,1,0,3,1,1,18,12,1,USA,League of Legends,High school diploma (or equivalent),PC,20.0,winning,Multiplayer - online - with real life friends,Male
@@ -8986,7 +8986,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 9558,2015,2,2,1,1,0,3,1,10,3,1,18,12,1,USA,League of Legends,High school diploma (or equivalent),PC,24.0,winning,Multiplayer - online - with real life friends,Male
 9559,2015,0,0,0,0,0,0,0,0,1,2,23,8,1,USA,League of Legends,Bachelor (or equivalent),PC,15.0,improving,Multiplayer - online - with real life friends,Female
 9560,2015,3,1,3,0,0,2,1,10,3,1,18,12,1,ITA,League of Legends,High school diploma (or equivalent),PC,70.0,having fun,Multiplayer - online - with gf,Male
-9561,2015,0,1,1,0,0,0,0,2,1,1,28,8,1,POL,Other,Bachelor (or equivalent),Phone / Tablet,18.0,having fun,Multiplayer - online - with real life friends,Male
+9561,2015,0,1,1,0,0,0,0,2,1,1,28,8,1,POL,Other,Bachelor (or equivalent),Mobile,18.0,having fun,Multiplayer - online - with real life friends,Male
 9562,2015,1,1,2,1,0,1,0,6,2,1,24,12,1,DEU,League of Legends,High school diploma (or equivalent),PC,15.0,having fun,Multiplayer - online - with strangers,Male
 9563,2015,1,0,1,0,0,1,0,3,1,1,20,12,1,USA,League of Legends,High school diploma (or equivalent),PC,20.0,winning,Multiplayer - online - with real life friends,Male
 9564,2015,2,2,2,1,0,2,3,12,3,1,18,99,1,USA,League of Legends,Unknown,PC,35.0,improving,Multiplayer - online - with online acquaintances or teammates,Male
@@ -9537,7 +9537,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 10149,2015,1,0,0,1,1,0,0,3,1,1,25,8,1,USA,League of Legends,Bachelor (or equivalent),PC,10.0,having fun,Multiplayer - online - with online acquaintances or teammates,Male
 10150,2015,1,0,0,1,0,1,0,3,1,1,21,12,1,CAN,Other,High school diploma (or equivalent),PC,10.0,having fun,Multiplayer - online - with real life friends,Male
 10151,2015,0,0,0,0,0,0,0,0,1,1,19,12,1,FRO,Starcraft 2,High school diploma (or equivalent),PC,45.0,improving,Multiplayer - online - with strangers,Male
-10152,2015,3,3,3,3,3,3,3,21,4,3,25,99,1,JPN,Other,Unknown,Phone / Tablet,24.0,winning,Multiplayer - online - with strangers,Other
+10152,2015,3,3,3,3,3,3,3,21,4,3,25,99,1,JPN,Other,Unknown,Mobile,24.0,winning,Multiplayer - online - with strangers,Other
 10153,2015,1,1,1,0,0,0,0,3,1,1,18,12,1,NLD,League of Legends,High school diploma (or equivalent),PC,8.0,having fun,Multiplayer - online - with real life friends,Male
 10154,2015,1,0,0,1,0,0,0,2,1,1,19,8,1,CAN,Other,Bachelor (or equivalent),PC,10.0,relaxing,Singleplayer,Male
 10155,2015,1,1,2,2,1,3,3,13,3,1,23,12,1,CAN,League of Legends,High school diploma (or equivalent),PC,12.0,improving,Multiplayer - online - with real life friends,Male
@@ -10552,7 +10552,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 11259,2015,0,0,0,0,1,1,1,3,1,1,18,12,1,AUT,League of Legends,High school diploma (or equivalent),PC,40.0,improving,Multiplayer - online - with online acquaintances or teammates,Male
 11260,2015,2,1,1,0,1,0,1,6,2,1,21,8,1,FRA,League of Legends,Bachelor (or equivalent),PC,21.0,having fun,Multiplayer - online - with real life friends,Male
 11261,2015,0,0,2,0,0,1,0,3,1,1,19,12,1,USA,League of Legends,High school diploma (or equivalent),PC,20.0,having fun,Multiplayer - online - with real life friends,Male
-11262,2015,0,0,1,0,1,1,0,3,1,1,23,99,1,SVN,Other,Unknown,Phone / Tablet,30.0,all of the above,all of the above,Male
+11262,2015,0,0,1,0,1,1,0,3,1,1,23,99,1,SVN,Other,Unknown,Mobile,30.0,all of the above,all of the above,Male
 11263,2015,0,0,0,0,0,0,0,0,1,1,18,12,1,NOR,League of Legends,High school diploma (or equivalent),PC,20.0,having fun,Singleplayer,Male
 11264,2015,0,1,1,0,0,1,0,3,1,1,22,12,1,DEU,League of Legends,High school diploma (or equivalent),PC,14.0,having fun,Multiplayer - online - with strangers,Male
 11265,2015,0,1,3,1,0,2,2,9,2,1,18,12,1,NLD,League of Legends,High school diploma (or equivalent),PC,10.0,winning,Singleplayer,Male
@@ -10980,7 +10980,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 11715,2015,1,0,0,0,1,0,0,2,1,1,21,12,1,POL,League of Legends,High school diploma (or equivalent),PC,9.0,improving,Multiplayer - online - with strangers,Male
 11716,2015,0,0,1,0,0,1,0,2,1,2,26,8,1,SVN,League of Legends,Bachelor (or equivalent),PC,10.0,relaxing,Multiplayer - online - with strangers,Female
 11717,2015,1,0,1,1,1,0,0,4,1,1,19,12,1,USA,League of Legends,High school diploma (or equivalent),PC,20.0,winning,Singleplayer,Male
-11718,2015,0,0,0,0,0,0,0,0,1,1,32,9,1,USA,Hearthstone,Master (or equivalent),Phone / Tablet,10.0,having fun,Multiplayer - online - with strangers,Male
+11718,2015,0,0,0,0,0,0,0,0,1,1,32,9,1,USA,Hearthstone,Master (or equivalent),Mobile,10.0,having fun,Multiplayer - online - with strangers,Male
 11719,2015,1,1,2,1,0,0,1,6,2,1,19,12,1,USA,League of Legends,High school diploma (or equivalent),PC,7.0,having fun,Multiplayer - online - with real life friends,Male
 11720,2015,1,2,0,0,2,1,2,8,2,1,18,99,1,FIN,League of Legends,Unknown,PC,40.0,Improving and having fun,Multiplayer - online - with online acquaintances or teammates,Male
 11721,2015,0,0,0,0,0,0,0,0,1,1,19,12,1,GBR,League of Legends,High school diploma (or equivalent),PC,40.0,improving,Multiplayer - online - with strangers,Male
@@ -11951,7 +11951,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 12762,2015,2,2,2,1,1,1,2,11,3,1,18,12,1,PRT,League of Legends,High school diploma (or equivalent),PC,50.0,improving,Multiplayer - online - with strangers,Male
 12763,2015,0,0,0,0,0,0,0,0,1,1,26,8,1,NLD,League of Legends,Bachelor (or equivalent),PC,30.0,having fun,Multiplayer - online - with online acquaintances or teammates,Male
 12764,2015,0,0,0,0,0,0,0,0,1,1,24,8,1,AUS,League of Legends,Bachelor (or equivalent),PC,20.0,improving,Multiplayer - online - with strangers,Male
-12765,2015,2,2,3,2,0,1,2,12,3,1,27,8,1,USA,Other,Bachelor (or equivalent),Phone / Tablet,15.0,improving,Singleplayer,Male
+12765,2015,2,2,3,2,0,1,2,12,3,1,27,8,1,USA,Other,Bachelor (or equivalent),Mobile,15.0,improving,Singleplayer,Male
 12766,2015,1,1,1,1,1,1,0,6,2,1,20,12,1,NOR,League of Legends,High school diploma (or equivalent),PC,10.0,having fun,Multiplayer - online - with online acquaintances or teammates,Male
 12767,2015,1,0,1,0,0,1,0,3,1,1,18,12,1,AUS,League of Legends,High school diploma (or equivalent),PC,35.0,all of the above,Multiplayer - online - with real life friends,Male
 12768,2015,3,2,3,2,0,3,1,14,3,1,18,12,1,USA,League of Legends,High school diploma (or equivalent),PC,20.0,having fun,Multiplayer - online - with online acquaintances or teammates,Male
@@ -12422,7 +12422,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 13281,2015,0,0,0,0,0,0,0,0,1,2,19,12,1,CAN,League of Legends,High school diploma (or equivalent),PC,20.0,having fun,Multiplayer - online - with real life friends,Female
 13282,2015,0,0,0,0,1,0,0,1,1,1,22,12,1,USA,League of Legends,High school diploma (or equivalent),PC,8.0,having fun,Multiplayer - online - with online acquaintances or teammates,Male
 13283,2015,1,1,2,2,0,0,0,6,2,1,18,12,1,USA,League of Legends,High school diploma (or equivalent),PC,10.0,having fun,Multiplayer - online - with real life friends,Male
-13284,2015,2,1,1,1,0,1,0,6,2,1,27,8,1,CAN,League of Legends,Bachelor (or equivalent),Phone / Tablet,20.0,improving,Multiplayer - online - with strangers,Male
+13284,2015,2,1,1,1,0,1,0,6,2,1,27,8,1,CAN,League of Legends,Bachelor (or equivalent),Mobile,20.0,improving,Multiplayer - online - with strangers,Male
 13285,2015,1,1,2,1,3,3,0,11,3,1,19,12,1,USA,League of Legends,High school diploma (or equivalent),PC,30.0,improving,Multiplayer - online - with strangers,Male
 13286,2015,1,0,0,0,0,2,0,3,1,1,20,12,1,BRA,Other,High school diploma (or equivalent),PC,30.0,improving,"singleplayer, multiplayer with acquaintances, and multiplayer with real life friends",Male
 13287,2015,1,1,1,2,1,1,1,8,2,1,28,8,1,USA,League of Legends,Bachelor (or equivalent),PC,20.0,improving,Multiplayer - online - with real life friends,Male
@@ -12459,7 +12459,7 @@ participant_id,year,GAD1,GAD2,GAD3,GAD4,GAD5,GAD6,GAD7,GAD_total,GAD_cat,sex_id,
 13321,2015,1,1,0,0,0,1,0,3,1,1,27,12,1,CAN,League of Legends,High school diploma (or equivalent),PC,40.0,improving,Multiplayer - online - with strangers,Male
 13322,2015,0,0,0,2,2,1,0,5,2,1,18,99,1,USA,League of Legends,Unknown,PC,10.0,having fun,Multiplayer - online - with real life friends,Male
 13323,2015,0,0,1,1,0,0,0,2,1,2,20,12,1,USA,League of Legends,High school diploma (or equivalent),PC,16.0,having fun,Multiplayer - online - with real life friends,Female
-13324,2015,1,0,1,1,3,1,0,7,2,1,18,99,1,USA,League of Legends,Unknown,Phone / Tablet,25.0,improving,Multiplayer - online - with online acquaintances or teammates,Male
+13324,2015,1,0,1,1,3,1,0,7,2,1,18,99,1,USA,League of Legends,Unknown,Mobile,25.0,improving,Multiplayer - online - with online acquaintances or teammates,Male
 13325,2015,3,1,1,2,1,1,1,10,3,1,20,12,1,USA,League of Legends,High school diploma (or equivalent),PC,6.0,having fun,Multiplayer - online - with real life friends,Male
 13326,2015,0,0,1,1,1,1,0,4,1,1,20,12,1,AUS,Other,High school diploma (or equivalent),PC,21.0,having fun,Multiplayer - online - with online acquaintances or teammates,Male
 13327,2015,1,1,0,1,0,1,1,5,2,1,31,13,1,USA,League of Legends,"Ph.D., Psy. D., MD (or equivalent)",PC,12.0,having fun,Multiplayer - online - with strangers,Male

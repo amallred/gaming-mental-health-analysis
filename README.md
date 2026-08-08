@@ -1,6 +1,6 @@
 <center>
 
-![gaming-mental-health-analysis](/preliminary_analysis/images/Gaming_&_Mental_Health_Analysis.png)
+![gaming-mental-health-analysis](/images/Gaming_&_Mental_Health_Analysis.png)
 
 <strong>An investigation into the impact of gaming on anxiety.</strong>
 
@@ -32,18 +32,53 @@
       pip install -r requirements.txt
       ```
 
-## Usage *** UPDATE THIS SECTION*** 
+## Usage  
 
 Run the notebooks in the following order:
 1. gaming_mental_health_cleaning.ipynb
 2. nhis_mental_health_cleaning.ipynb
 3. gad_eda.ipynb
+4. final_analysis.ipynb
 
-In this investigation, I explored what factors appear to most correlate with higher anxiety levels in this survey's participants (Ex: demographics like age/gender/country, hours spent gaming, gaming platform, etc.).
+
+## Analysis
+
+### Preliminary Analysis:
+In my preliminary investigation of the gaming data, I explored what factors appear to most correlate with higher anxiety levels in this survey's participants (Ex: demographics like age/gender/country, hours spent gaming, gaming platform, etc.).
 
 By answering these questions, potential outcomes include:
 - Data could be presented to gaming corporations to encourage better mental health reminders (like in [Satisfactory](https://www.satisfactorygame.com/))
 - To improve customer's mental health (and potentially increase the longevity of revenue) games could be marketed to match the purpose most associated with better mental health indicators.
+
+### Overall Analysis and Observations:
+I compared the data representing the mental health of gamers with a CDC survey of the general population that used the same psychological test, the General Anxiety Disorder-7 questionnaire. I narrowed the participants for this analysis to be located in the USA and between the ages of 18-22 to account for the most participants from each survey. Using the database created from these datasets, I explored the following questions:
+
+#### How do the total GAD-7 scores compare between gamers and the general population?
+    Overall, Gamers exhibited a higher GAD-7 score than the General Population, though the average score fell just beyond the "Mild Anxiety" threshold. This is higher, but not as significantly different as I expected to see. 
+|  |  |
+| --- | --- |
+|![average gamers exhibit mild anxiety levels](/plots/gamer_gad_countplot.png) | ![General Population Demonstrates Low Anxiety Levels](/plots/nhis_gad_countplot.png) |
+
+#### How did the GAD-7 categorizations compare between gamers and the general population?
+    While the average GAD-7 score was just over the "Mild Anxiety" threshold for Gamers, there was a greater representation of individuals with levels higher than "Mild" in that group than in the general population.
+|  |  |
+| --- | --- |
+|![anxiety levels among gamers](/plots/gamer_gad_pie.png) | ![anxiety levels in the general population are minimal](/plots/nhis_gad_pie.png) |
+
+#### Did hours spent gaming impact participant's GAD-7 score?
+    Weekly gaming hours showed little correlation with individual's anxiety levels.
+![anxiety levels vary greatly across weekly gaming hours](/plots/gamer_gad_scatter.png)
+
+#### How did gaming platform impact participants' anxiety levels?
+Mobile gamers showed significantly higher anxiety levels than gamers on other platforms.
+![mobile gamers exhibit higher anxiety levels](/plots/gamer_gad_boxplot.png)
+
+### Takeaways
+The data showed that there was a noticeable difference in gamers' mental health, with averages exceeding the levels of the general population. In this subset, individuals who gamed primarily on mobile devices exhibited much higher anxiety levels. Learning this leads me to question if there should be stricter guidelines on time limits or reminders for self-care in mobile applications. 
+
+
+## Acknowledgements
+I would like to thank the team at Code:You for their support on this project. Thank you, also, to Kevin Le for a very helpful one-on-one session to help me through blockers and reviewing my project.
 
 ## Author
 Amanda Allred | [LinkedIn](https://www.linkedin.com/in/amallred/) | [Email](amallredmom@gmail.com)
@@ -56,7 +91,7 @@ Amanda Allred | [LinkedIn](https://www.linkedin.com/in/amallred/) | [Email](amal
 - [SPIN survey questions](https://psychology-tools.com/test/spin)
 - Other graphic-specific references are included in comments throughout the code.
 
-### Other potential datasets to include in the analysis:
+### Other potential datasets to include in future analysis:
 - **Look into non-gaming related GAD, SWL, SPIN tests**
 - [Digital Habits & Smartphone Addiction Dataset](https://www.kaggle.com/datasets/guriya79/smart-phone)
   - Well maintained and clean data but no demographic information beyond age and gender
